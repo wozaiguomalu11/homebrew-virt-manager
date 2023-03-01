@@ -3,7 +3,7 @@ class VirtManager < Formula
 
   desc "App for managing virtual machines"
   homepage "https://virt-manager.org/"
-  url "https://virt-manager.org/download/sources/virt-manager/virt-manager-2.2.1.tar.gz"
+  url "https://releases.pagure.org/virt-manager/virt-manager-2.2.1.tar.gz"
   sha256 "cfd88d66e834513e067b4d3501217e21352fadb673103bacb9e646da9f029a1b"
   revision 3
 
